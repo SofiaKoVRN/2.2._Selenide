@@ -1,1 +1,1 @@
-# 2.2._Selenide
+[![Build status](https://ci.appveyor.com/api/projects/status/7s1qn9q8t98rfnr8?svg=true)](https://ci.appveyor.com/project/Vemant/qamid-66-vemant-autotesting-4-4)
